@@ -3636,18 +3636,12 @@
         ]
       },
       "properties": {
-        "name": "Middleton Park",
+        "name": "Middleton Park Ward Boundary",
         "stroke": "#555555",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
-        "bng_e": 430253,
-        "bng_n": 428710,
-        "long": -1.54266,
-        "lat": 53.753890989999995,
-        "st_area(shape)": 9422305.5648972,
-        "st_length(shape)": 14524.170620968103
+        "fill-opacity": 0.5
       }
     },
     {
@@ -3759,6 +3753,38 @@
         "coordinates": [
           -1.5231406688690183,
           53.7566023137729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "Springwell South Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5256834030151367,
+          53.76111833482746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "Windmill Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5306401252746582,
+          53.761613037957815
         ]
       }
     },
