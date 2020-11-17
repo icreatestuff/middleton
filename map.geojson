@@ -3636,23 +3636,82 @@
         ]
       },
       "properties": {
+        "name": "Middleton Park",
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "objectid": 1276,
-        "wd16cd": "E05001433",
-        "wd16nm": "Middleton Park",
-        "wd16nmw": " ",
-        "lad16cd": "E08000035",
-        "lad16nm": "Leeds",
         "bng_e": 430253,
         "bng_n": 428710,
         "long": -1.54266,
         "lat": 53.753890989999995,
         "st_area(shape)": 9422305.5648972,
         "st_length(shape)": 14524.170620968103
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "St Philips Catholic Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.546926498413086,
+          53.7500050057919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "St Mary's CofE Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5444481372833252,
+          53.75020801533409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "Elements Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.538386344909668,
+          53.74449799775213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#63ca98",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "Middleton Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5484285354614258,
+          53.74234067803989
+        ]
       }
     }
   ]
